@@ -7,7 +7,10 @@ This project help to understand how we can use docker in SDLC
 - Helps to make deployment more efficent.
 
 ## How container developed deployment process?
-- 
+- Assume we have 4 different services(postgres+redis+api+ui) need to launch the application. Installation of some services are diffrent from one to another OS. So, we need to repeate the process in everyone laptop.
+- In local env, we can simply run the 4 different docker image to run container and get started with the application.
+
+
 
 ## What is Docker?
 - 
